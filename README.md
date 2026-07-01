@@ -24,5 +24,5 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pastorilaine&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pastorilaine&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pastorilaine&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
