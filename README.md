@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Pastorilaine</h1>
 <p align="center">
   Python & JavaScript developer from Finland<br>
-  Building automation tools, Discord bots and small web apps
+  Building automation tools, Discord bots and web apps
 </p>
 
 <p align="center">
