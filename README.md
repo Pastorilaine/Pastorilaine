@@ -27,9 +27,9 @@ Core Languages: [Go, TypeScript, Python, Lua]
 Current Mission: Building high-performance backend systems, game infrastructure & scalable automation
 ```
 
-- 🔭 **Currently Building**: High-performance backend services, system utilities & network tools in **Go** and **TypeScript**.
+- 🔭 **Currently Building**: High-performance backend services, system utilities & automation tools in **Go** and **TypeScript**.
 - 🎮 **Game Server & Modding**: Author of 40+ standalone FiveM resources, economy engines & combat mechanics in **Lua** & **JavaScript**.
-- 🤖 **Automation & Bots**: Creating intelligent Discord bots, marketplace trackers (Torivahti) & developer automation pipelines.
+- 🤖 **Automation & Bots**: Creating intelligent Discord bots, task automations & developer productivity pipelines.
 - ⚡ **Philosophy**: High efficiency, clean architecture, and rock-solid reliability.
 
 ---
@@ -84,7 +84,7 @@ Current Mission: Building high-performance backend systems, game infrastructure 
 
 ---
 
-### 🌟 Featured Projects & Highlights
+### 🌟 Featured Public Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
@@ -93,7 +93,6 @@ Current Mission: Building high-performance backend systems, game infrastructure 
 | 🔍 **[Disk_analyzer](https://github.com/Pastorilaine/Disk_analyzer)** | `Python` | High-speed storage scanner and disk usage analyzer to inspect system bloat. |
 | 📁 **[organizer_lite](https://github.com/Pastorilaine/organizer_lite)** | `Python` | Lightweight file triage & directory organizer utility for automated workspace management. |
 | 🚀 **[ProjectHub](https://github.com/Pastorilaine/ProjectHub)** | `JavaScript` `Web` | Collaborative workspace and project management portal. |
-| 💼 **[Duunihub](https://github.com/Pastorilaine)** | `TypeScript` `Next.js` | Next-generation recruitment portal and modern job market platform. |
 
 ---
 
