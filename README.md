@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Pastorilaine
 
 <a href="https://github.com/Pastorilaine">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=580&lines=Full-Stack+%26+Systems+Developer;Go+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Lua;Co-Founder+%40+IT-Veljekset+Group;Building+Cloud+Infrastructure+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=580&lines=Full-Stack+%26+Systems+Developer;Go+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Lua;Co-Founder+%40+IT-Veljekset+Group;Building+High-Performance+Backends+%26+Tools" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -24,10 +24,10 @@ Role: Co-Founder & Lead Developer @ IT-Veljekset Group
 Location: Finland 🇫🇮
 Focus: Systems Engineering, Cloud Automation, Game Server Infrastructure & Web SaaS
 Core Languages: [Go, TypeScript, Python, Lua]
-Current Mission: Architecting autonomous hosting infrastructure & scalable automation
+Current Mission: Building high-performance backend systems, game infrastructure & scalable automation
 ```
 
-- 🔭 **Currently Building**: Custom **Go-based VPS hosting platform** & high-performance daemon services.
+- 🔭 **Currently Building**: High-performance backend services, system utilities & network tools in **Go** and **TypeScript**.
 - 🎮 **Game Server & Modding**: Author of 40+ standalone FiveM resources, economy engines & combat mechanics in **Lua** & **JavaScript**.
 - 🤖 **Automation & Bots**: Creating intelligent Discord bots, marketplace trackers (Torivahti) & developer automation pipelines.
 - ⚡ **Philosophy**: High efficiency, clean architecture, and rock-solid reliability.
@@ -88,12 +88,12 @@ Current Mission: Architecting autonomous hosting infrastructure & scalable autom
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 🖥️ **[own_host_software](https://github.com/Pastorilaine)** | `Go` `REST API` `Systemd` | Custom high-performance VPS & container hosting management platform with native agent daemon. |
 | 🎯 **[p_gunswitch](https://github.com/Pastorilaine/p_gunswitch)** | `JavaScript` `FiveM` | Standalone selective fire mode switcher for assault rifles (Full Auto ↔ Single) in FiveM. |
 | 🤖 **[Tiksu-bot-manager](https://github.com/Pastorilaine/Tiksu-bot-manager)** | `JavaScript` `Node.js` | Centralized Discord bot control hub and modular automation management system. |
 | 🔍 **[Disk_analyzer](https://github.com/Pastorilaine/Disk_analyzer)** | `Python` | High-speed storage scanner and disk usage analyzer to inspect system bloat. |
 | 📁 **[organizer_lite](https://github.com/Pastorilaine/organizer_lite)** | `Python` | Lightweight file triage & directory organizer utility for automated workspace management. |
 | 🚀 **[ProjectHub](https://github.com/Pastorilaine/ProjectHub)** | `JavaScript` `Web` | Collaborative workspace and project management portal. |
+| 💼 **[Duunihub](https://github.com/Pastorilaine)** | `TypeScript` `Next.js` | Next-generation recruitment portal and modern job market platform. |
 
 ---
 
